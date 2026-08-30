@@ -3,3 +3,6 @@ These are the markdown files for the [linked-blog-starter](https://github.com/ma
 
 edit try
 
+
+
+Auto-sync test — temporary — 2026-08-30
