@@ -5,4 +5,3 @@ edit try
 
 
 
-Auto-sync test — temporary — 2026-08-30
