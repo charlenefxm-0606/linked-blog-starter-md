@@ -23,6 +23,15 @@
     - Website: [https://tax.vermont.gov/instructions/form-HS-122](https://tax.vermont.gov/instructions/form-HS-122?utm_source=chatgpt.com)
     - Status: Not started
     - Notes:
+        - **In plain English:** This is a tax break for Vermont homeowners. If you qualify, the state gives you a credit (basically a discount) on your property tax bill. It's meant to help people on modest or fixed incomes who might otherwise be squeezed by rising property taxes.
+        - **The deadline (October 15, 2026)** is the cutoff for filing a *late* claim for 2026. If the normal filing window is missed, this is the last date to still submit — miss it and the credit for that year is likely lost.
+        - **The website** is the state's official instruction page for **Form HS-122**, the form used to claim the credit. It covers eligibility, what documents you need, and how to file. (The `?utm_source=chatgpt.com` part is just a tracking tag from the link source and doesn't affect where it goes.)
+        - **Two parts in one form, and this matters:**
+            - **Part A — Homestead Declaration:** Nearly every homeowner who lives in their home must file this each year. It tells the state the property is your primary residence, so you get the lower "homestead" tax rate instead of the higher second-home rate. Skipping it can raise the tax bill. This part is routine.
+            - **Part B — Property Tax Credit Claim:** This is the part that actually lowers the bill, and it only helps if household income is under the yearly cap (around $115,400 for 2025). This is the piece to focus on for Nana.
+        - **Is it normal to file?** Yes — very common, not an edge case. Roughly **two out of three Vermont homeowners (about 67–68%)** receive the credit (Vermont figures, FY2022–23). Nana's ~$20,400 income is well under the cap, so she very likely qualifies.
+        - **In short:** A tax break for a Vermont homeowner that could lower her property taxes. To get it, someone needs to file Form HS-122 by **October 15, 2026**, and so far nothing has been done. First step: open the website to check eligibility and gather the paperwork (see Documents to Collect below).
+        - *Note: figures/limits change yearly and the stats above are from FY2022–23 — confirm current details on the official state page. Filing is done on the state's myVTax portal or alongside the Vermont income tax return.*
 
 ### 🟠 Priority 2 — Monthly Savings
 
