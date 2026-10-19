@@ -1,0 +1,13 @@
+
+- [How To Never Miss Your Serve Again — PickleballwithTyler](https://www.facebook.com/share/r/1GnyH4ZH7k/?mibextid=wwXIfr) — Serve consistency: how to stop missing your serve (sending it out or into the net).
+- [What serves look and sound like with the MPP Turbo ArmorGrit — Enhance Pickleball](https://www.facebook.com/share/r/19YUpgVDDR/?mibextid=wwXIfr) — Brand demo showing the contact and sound of serves hit with the MPP Turbo ArmorGrit paddle.
+- [Topspin serve first — everything else follows — PickleballwithTyler](https://www.facebook.com/share/p/1GnrJnU3s3/?mibextid=wwXIfr) — Making a topspin serve your foundation before working on other serves.
+- [Unlock Explosive Power On Your Pickleball Serve 💥 — Preston's Playbook](https://www.facebook.com/share/r/18LXovi4VG/?mibextid=wwXIfr) — Technique for adding more explosive power to your serve.
+- [Backhand Topspin Drive in 3 Steps](https://www.facebook.com/share/r/1EBBHjTSR5/?mibextid=wwXIfr) — How to hit a backhand topspin drive, broken down into three steps.
+- [Stop Being Stuck in 4.0](https://www.facebook.com/share/r/1JqnsEuxQa/?mibextid=wwXIfr) — How to break out of the 4.0 skill-level plateau.
+- [Reset vs. Counter](https://www.facebook.com/share/r/1DoixnHdaa/?mibextid=wwXIfr) — Knowing when to reset the ball versus when to counter-attack.
+- [How To Instantly Get Power On Your Pickleball Serve — PickleballwithTyler](https://www.facebook.com/share/v/1BwVvXGh2S/?mibextid=wwXIfr) — A quick technique for adding power to your serve.
+- [How to Hit the Aggressive Forehand Roll — Picklr](https://www.facebook.com/share/r/1DLtHCMPPR/?mibextid=wwXIfr) — Technique for hitting an aggressive forehand roll shot.
+- [Forehand Drive Progression — Step 1](https://www.facebook.com/share/r/1TJbVck6yo/?mibextid=wwXIfr) — The first step in a forehand drive progression drill.
+- [4 Tips for a Better Serve](https://www.facebook.com/share/r/1CPfoarD9d/?mibextid=wwXIfr) — Four tips to improve your serve.
+- [You're down 8-3. Your partner just mishit… — Picklepedia](https://www.facebook.com/share/19focumEBz/?mibextid=wwXIfr) — Staying composed and playing through a comeback after your partner's mistake.
