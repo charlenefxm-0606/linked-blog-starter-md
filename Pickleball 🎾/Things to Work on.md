@@ -29,3 +29,6 @@ Progress:
 Focus: Keeping shots low and in bounds, improving accuracy, and gradually adding speed without losing control.
 Date: 2026-10-24
 Progress: 
+
+7. Serve, not NOT the main focus 
+Focus: Hoping to have a more consistent serve and especially with top spin, faster with more speed. And have 100% in rate. 
