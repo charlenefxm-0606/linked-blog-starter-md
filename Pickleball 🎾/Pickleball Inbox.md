@@ -11,5 +11,7 @@ Ultimately keeping the ball low at all times and increase speed, but that is for
 Today I learned 
 I actually do have time to hit the ball, I don’t have to run and hit the ball 
 Also try to put ball in the middle 
-Try to aim the ball at the corner  
+Try to aim the ball at the corner 
+Try to aim at the center of the ball 
+Do not distract when you are trying to get ready and 
 
