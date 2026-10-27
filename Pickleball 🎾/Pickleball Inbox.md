@@ -15,3 +15,5 @@ Try to aim the ball at the corner
 Try to aim at the center of the ball 
 Do not distract when you are trying to get ready and 
 
+Let the ball come to you 
+
